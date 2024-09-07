@@ -1,0 +1,46 @@
+.center{
+    text-align: center;
+    font-size: 50px;
+}
+
+.mx-auto{
+margin: auto;
+}
+
+.button{
+   font-size: 20px;
+ width: 60px;
+    padding: 20px;
+    margin: 3px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.row{
+    margin: 8px 0;
+}
+.row input{
+    background-color: rgb(42, 91, 42);
+    font-size: 20px;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 7px;
+    width: 270px;
+    color:white;
+}
+.container{
+    background-color: rgb(49, 49, 51);
+    width: 320px;
+    border-radius: 10px;
+}
+.special{
+    background-color: rgb(216, 128, 26);
+}
